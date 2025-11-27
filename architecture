@@ -1,0 +1,25 @@
+# 🌩️ Dhanya’s Cloud Portfolio  
+**AWS S3 Static Hosting + CloudFront CDN + Custom VPC Project**
+
+This repository contains my cloud portfolio hosted on **Amazon S3** and accelerated using **CloudFront CDN**. It showcases my hands-on AWS skills, including static website hosting, global content delivery, and secure cloud architecture.
+
+---
+
+## 🚀 Project Overview
+
+### **1️⃣ Static Website Hosting on Amazon S3**
+- Created a private S3 bucket to securely store the website files  
+- Enabled **static website hosting**  
+- Set bucket policies and configurations for secure access via CloudFront  
+- Added **versioning** and applied lifecycle management rules  
+
+---
+
+
+## 🔗 Live Project Link  
+**S3 Hosted Version:**  
+https://dhanyacloud-portfolio.s3.eu-north-1.amazonaws.com/cloud/index.html  
+
+
+
+---
